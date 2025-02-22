@@ -22,7 +22,9 @@ const whenExternalScripts = (items: (() => AstroIntegration) | (() => AstroInteg
   hasExternalScripts ? (Array.isArray(items) ? items.map((item) => item()) : [items()]) : [];
 
 export default defineConfig({
-  site: 'https://degcent.github.io',
+  site: 'https://degcent.github.io/website',
+  base: '/website/',
+
   output: 'static',
 
   integrations: [
