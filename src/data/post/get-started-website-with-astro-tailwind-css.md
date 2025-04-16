@@ -2,7 +2,7 @@
 publishDate: 2024-05-14T00:00:00Z
 author: DEGCent
 title: Disruptive “AC Battery” - SMB Smart Modular Low-Voltage Cascade PCS Technology
-excerpt: Start your web journey with AstroWind – harness Astro and Tailwind CSS for a stunning site. Explore our guide now.
+excerpt: Start your web journey with AstroWind – harness Astro and Tailwind CSS for a stunning site. Explore our guide now. With the evolution of new energy battery storage products, systems, and applications, modular multi-level cascade PCS technology, especially for high-voltage scenarios, has gained recognition and attention, and implemented in the industry. The commercialization of this innovative technology can better address industry pain points, such as safety and cost issues.
 image: https://images.unsplash.com/photo-1516996087931-5ae405802f9f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80
 category: Tutorials
 tags:
